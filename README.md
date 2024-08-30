@@ -28,7 +28,7 @@ A Python implementation of the popular 2048 game. This version includes a scorin
 
     ```bash
     git clone https://github.com/RaphRoss/2048.git
-    cd 2048-python
+    cd 2048
     ```
 
 3. Install the required dependencies. The game uses NumPy, so you need to install it if you don't already have it:

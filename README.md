@@ -27,7 +27,7 @@ A Python implementation of the popular 2048 game. This version includes a scorin
 2. Clone this repository or download the `2048.py` file.
 
     ```bash
-    git clone https://github.com/your-username/2048-python.git
+    git clone https://github.com/RaphRoss/2048.git
     cd 2048-python
     ```
 
